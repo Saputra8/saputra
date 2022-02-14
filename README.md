@@ -2,10 +2,10 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/Mark-Zuck/zafi <br>
-$ cd zafi <br>
-$ pip2 install -r zona.zafi <br>
-$ python2 zafi.py <br>
+$ git clone https://github.com/saputra-XD <br>
+$ cd saputra <br>
+$ pip2 install -r zona.XD <br>
+$ python2 XD.py <br>
 #
 #### Info Menu :<br>
  [01] Dump id public <br>
@@ -23,8 +23,3 @@ $ python2 zafi.py <br>
 #
 If you can't use this script or there is a bug in the script, please contact me
 #### contact me
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.afrizal.102)
-[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
-#### Donasi Dana :
-+6282371648186
-#
