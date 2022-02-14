@@ -7,7 +7,7 @@
  $ pkg install python git
  $ pip install requests bs4 futures cython
  $ rm -rf zmbf
- $ git clone https://github.com/Fall-Xavier/zmbf
+ $ git clone https://github.com/Saputra-Xd/zmbf
  ```
 #### CARA MENJALANKAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
