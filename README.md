@@ -2,7 +2,7 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/saputra-XD <br>
+$ git clone https://github.com/saputra/XD <br>
 $ cd saputra <br>
 $ pip2 install -r zona.XD <br>
 $ python2 XD.py <br>
