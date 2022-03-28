@@ -1,43 +1,40 @@
+# 4MBF
 
-##Perintah
+Tool Sederhana Untuk Crack Facebook
 
-$pkg update && pkg upgrade
+Cara Install Scripts
+pkg update && pkg upgrade
 
-$pkg install python
+pkg install python
 
-$pkg install git
+pkg install git
 
-$pip install stdiomask
+pip install stdiomask
 
-$pip install requests
+pip install requests
 
-$pip install bs4
+pip install bs4
 
-$pip install simplejson
+pip install simplejson
 
-$pip install requests
+pip install requests
 
-$pip install futures
+pip install futures
 
-$pip install rich
+pip install rich
 
-$pip install mechanize
+pip install mechanize
 
-git clone https://github.com/Oleng1/Dho_Tha
+cd $HOME
 
-#Cara Menjalankan Scripts
+rm -rf 4MBF
 
-$cd  Dho_Tha
+git clone https://github.com/aorec-xd/4MBF
 
-$git pull
+Cara Menjalankan Scripts
 
-$python  dho_tha_enc.py
+cd $HOME
 
+cd 4MBF
 
-# Dho_Tha
-Kalo ada Bug dalam Script
-Tolong hubungi Author
-
-https://www.facebook.com/ocheng.onyes
-
-Free Buat Umat
+python 4MBF.py
