@@ -1,18 +1,43 @@
 
-#### CARA INSTALL SCRIPT:
- download aplikasi termux android di [disini](https://f-droid.org/repo/com.termux_117.apk)
- lalu buka aplikasinya ketikan perintah dibawah ini.
- ```
- $ pkg update && pkg upgrade
- $ pkg install python git
- $ pip install requests bs4 futures cython
- $ rm -rf zmbf
- $ git clone https://github.com/Saputra-Xd/zmbf
- ```
-#### CARA MENJALANKAN SCRIPT:
- sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
- ```
-  $ cd zmbf
-  $ cythonize -i zmbf.c
-  $ python run.py
- ```
+##Perintah
+
+$pkg update && pkg upgrade
+
+$pkg install python
+
+$pkg install git
+
+$pip install stdiomask
+
+$pip install requests
+
+$pip install bs4
+
+$pip install simplejson
+
+$pip install requests
+
+$pip install futures
+
+$pip install rich
+
+$pip install mechanize
+
+git clone https://github.com/Oleng1/Dho_Tha
+
+#Cara Menjalankan Scripts
+
+$cd  Dho_Tha
+
+$git pull
+
+$python  dho_tha_enc.py
+
+
+# Dho_Tha
+Kalo ada Bug dalam Script
+Tolong hubungi Author
+
+https://www.facebook.com/ocheng.onyes
+
+Free Buat Umat
